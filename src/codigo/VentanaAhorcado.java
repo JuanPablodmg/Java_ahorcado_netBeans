@@ -44,7 +44,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
             dibujaImagen(numeroFallos);
         }
     }
-    
+    //hola
     public void chequeaBoton(JButton miBoton){
         miBoton.setEnabled(false);
         chequeaLetra(miBoton.getText());
